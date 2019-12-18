@@ -314,4 +314,4 @@ Pholcus（幽灵蛛）项目采用 [Apache License v2](https://github.com/henryl
 
 ## 免责声明
 
-<font color="red" size="14">本软件仅用于学术研究，切勿用于非法数据采集！！</font>
+<font color="red" size="14">本软件仅用于学术研究，使用者需遵守其所在地的相关法律法规。因违法违规使用造成的一切后果，使用者自行承担！！</font>
